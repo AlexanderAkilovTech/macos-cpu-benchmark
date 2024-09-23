@@ -84,10 +84,3 @@ If you have any questions or need help with contributing, feel free to reach out
 Thank you again for your contributions!
 
 ---
-
-### Next Steps
-
-- **Review**: Let me know if you want to adjust or add anything to the file.
-- **Move on to the CHANGELOG.md**: After finalizing this, we can start working on the **CHANGELOG.md** file next.
-
-Let me know your thoughts on the **CONTRIBUTING.md** file!

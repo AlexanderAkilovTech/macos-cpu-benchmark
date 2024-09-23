@@ -16,6 +16,7 @@
 4. **Summary Report**: Finally, the script outputs a summary with idle and load data.
 
 ## Example Output
+```
 Idle CPU Temp: 42.81 deg. C  
 
 Idle Fan Speed: 1700 RPM  
@@ -43,7 +44,7 @@ Load Fan Speed: 5450 RPM
 Benchmark started at: Sun Sep 8 11:49:40 PDT 2024 
 
 Benchmark completed at: Sun Sep 8 11:59:51 PDT 2024
-
+```
 ## Future Improvements
 The following features are planned for future versions:
 - GPU temperature monitoring for Intel-based Macs.

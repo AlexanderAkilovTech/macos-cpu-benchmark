@@ -17,18 +17,31 @@
 
 ## Example Output
 Idle CPU Temp: 42.81 deg. C  
+
 Idle Fan Speed: 1700 RPM  
+
 Benchmark started at: Sun Sep 8 11:49:40 PDT 2024
+
 Running CPU stress test with 16 logical processors... 
+
 CPU Temperature under load: 68.75 deg. C
+
 Fan Speed under load: 5450 RPM
+
 Benchmark completed at: Sun Sep 8 11:59:51 PDT 2024
+
 Summary:
+
 Idle CPU Temp: 42.81 deg. C 
+
 Load CPU Temp: 68.75 deg. C 
-Idle Fan Speed: 5483 RPM 
+
+Idle Fan Speed: 1700 RPM 
+
 Load Fan Speed: 5450 RPM 
+
 Benchmark started at: Sun Sep 8 11:49:40 PDT 2024 
+
 Benchmark completed at: Sun Sep 8 11:59:51 PDT 2024
 
 ## Future Improvements

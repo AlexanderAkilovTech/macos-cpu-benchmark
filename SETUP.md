@@ -170,16 +170,12 @@ ________________________________________________________________________________
 
 Contributing:
 
-We welcome contributions! See the CONTRIBUTING.md file for detailed instructions on how to contribute.
+We welcome contributions! See the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed instructions on how to contribute.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 License:
 
-This project is licensed under the MIT License. See the LICENSE.md file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-
-
-

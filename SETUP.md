@@ -43,7 +43,7 @@ Installation:
 
    Once you're in the scripts folder in the terminal, clone the repository using this command:
    ``` 
-   git clone https://github.com/yourusername/macos-cpu-benchmark.git
+   git clone https://github.com/AlexanderAkilovTech/macos-cpu-benchmark.git
    ```
 3. Navigate to the project folder:
 
